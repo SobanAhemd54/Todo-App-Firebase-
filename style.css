@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+    padding-top: 20px;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#display {
+    background-color: #fff; /* Adding background color to display */
+    border-radius: 5px;
+    padding: 10px; 
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+}
+
+
+.todo-item {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+.btn-edit {
+    margin-right: 5px;
+}
